@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher
 import telebot
 
 
-token = '6067792173:AAG1g-valcFkZ4XEbpQY8hhPLDXn5nPLoJQ'
+token = ''
 bot = telebot.TeleBot(token)
 Bot = Bot(token)
 
